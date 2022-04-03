@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_4_2_ExportPipesParam.dll"</Assembly>
+		<AddInId>BD3459B8-76DC-450F-84DB-F118E1FB33F7</AddInId>
+		<FullClassName>RevitAPILab_4_2_ExportPipesParam.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Экспорт труб в excell</Text>
+	</AddIn>
+</RevitAddIns>
+
